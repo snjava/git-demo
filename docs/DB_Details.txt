@@ -1,7 +1,0 @@
-DB Details
-	Data Base: Mysql
-	Version: 8
-	Database: studentmgmt 
-	User Name : root
-	Password : root
-	URL: jdbc:mysql://localhost:3306/studentmgmt
